@@ -1,0 +1,13 @@
+running python ✅
+debuging ✅
+variables ✅
+comments ✅
+
+dataTypes
+    - numeric
+    - strings
+    - sequence
+    - boolean tpe
+    - none type
+    - set type
+    - mapping type
